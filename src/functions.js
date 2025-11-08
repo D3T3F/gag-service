@@ -5,7 +5,7 @@ const webhookUrl =
 const statusUrl =
   "https://discordapp.com/api/webhooks/1426656211150966795/meWuVD_DZLezUarkXfedPcRvLkASf3mX3HTBFpLHg0iOuAKZt9n1-8E6CZadJZWigz4h";
 
-const fruitsToCheck = ["Great Pumpkin", "Crimson Thorn"];
+const fruitsToCheck = ["Crimson Thorn", "Trinity Fruit"];
 
 // interface searchResult {
 //   success: boolean;
